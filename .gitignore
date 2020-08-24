@@ -4,8 +4,7 @@ target/
 !**/src/main/**
 !**/src/test/**
 
-## Design Board ##
-design board
+
 
 ### STS ###
 .apt_generated
