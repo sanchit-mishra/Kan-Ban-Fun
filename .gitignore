@@ -4,6 +4,9 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+## Design Board ##
+design board
+
 ### STS ###
 .apt_generated
 .classpath
@@ -29,3 +32,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Application Properties files ###
+application.properties
