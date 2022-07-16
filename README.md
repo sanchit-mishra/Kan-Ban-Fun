@@ -1,5 +1,7 @@
 ## Kan-Ban-Fun: Your Personal Project Management Tool .
 
+Kan-Ban-Fun is a personal project management tool that follows popular kanban approach allows you to create project and visualize your workflow, maximize efficiency, and become more agile .
+
 ![](https://img.shields.io/github/forks/sanchit-mishra/herokuSpring)
 ![](https://img.shields.io/github/issues/sanchit-mishra/herokuSpring)
 ![](https://img.shields.io/github/stars/sanchit-mishra/herokuSpring)
@@ -8,7 +10,7 @@
 ![Graphic](https://github.com/sanchit-mishra/herokuSpring/blob/master/design%20board/Kanban.png)
 ![Graphic](https://github.com/sanchit-mishra/herokuSpring/blob/master/design%20board/Kanban%20Board.png)
 
-Kan-Ban-Fun is a personal project management tool that follows popular kanban approach allows you to create project and visualize your workflow, maximize efficiency, and become more agile .
+
 
 <a href='https://kanban-ppmt-tool.herokuapp.com/'><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
